@@ -1,0 +1,16 @@
+{
+  "name": "JNV Result Analysis",
+  "short_name": "Result Analysis",
+  "description": "Jawahar Navodaya Vidyalaya Vejalpur Panchmahal — Result Analysis & PDF Generator",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef1ea",
+  "theme_color": "#0f2d4d",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
